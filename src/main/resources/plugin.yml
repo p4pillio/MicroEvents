@@ -1,0 +1,6 @@
+name: MicroEvents
+version: '${project.version}'
+main: me.p4pillio.microevents.MicroEvents
+api-version: 1.18
+authors: [ p4pillio ]
+description: MicroEvent minigames for survival servers

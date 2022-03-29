@@ -1,0 +1,5 @@
+me\p4pillio\microevents\MicroEvents.class
+me\p4pillio\microevents\events\HideAndSeek.class
+me\p4pillio\microevents\commands\MainCommands.class
+me\p4pillio\microevents\events\MobSpam.class
+me\p4pillio\microevents\events\ScavengerHunt.class
